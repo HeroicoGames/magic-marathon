@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 31b7e990fdc8f4121b4f37ec9475dea0
+timeCreated: 1507308602
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yellow Magician
+  fontNames:
+  - Yellow Magician
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
